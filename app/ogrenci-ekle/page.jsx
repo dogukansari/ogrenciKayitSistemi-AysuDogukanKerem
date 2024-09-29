@@ -2,8 +2,8 @@
 
 export default function OgrenciEkle() {
   return(
-    <div>
-      Merhaba Dünya!
-    </div>
+    <>
+      <h1>Sertifika Uygulaması</h1>
+    </>
   )
 }
