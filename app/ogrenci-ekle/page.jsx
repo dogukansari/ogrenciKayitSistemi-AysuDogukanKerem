@@ -18,7 +18,7 @@ export default function OgrenciEkle() {
         <label htmlFor="" >Öğrenci E-Posta Adresi</label>
         <input type="email" id="ogrenciMail" name="ogrenciMail" required />
        <br />       
-        <label htmlFor="doğumTarihi">Doğum Tarihi</label>
+          <label htmlFor="doğumTarihi">Doğum Tarihi</label>
         <input type="date" id="doğumTarihi" name="doğumTarihi" required />
       </form>
     </>
